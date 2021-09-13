@@ -1,0 +1,4 @@
+Some random
+text that
+will be add
+to text file
